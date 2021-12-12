@@ -1,0 +1,34 @@
+[
+  {
+    "idEmpresa": 1,
+    "nombreEmpresa": "Pizza Hut",
+    "imagen": "img/menu/pizzahut.jpg",
+    "descripcion": "Pizza-postres-comida Gurmet",
+    "categoria": "supermercado",
+    "horario": "08:00AM-16:00PM"
+  },
+  {
+    "idEmpresa": 2,
+    "nombreEmpresa": "Little Ceaser",
+    "imagen": "img/menu/pizzahut.jpg",
+    "descripcion": "Pizza-postres-comida Gurmet",
+    "categoria": "supermercado",
+    "horario": "08:00AM-16:00PM"
+  },
+  {
+    "idEmpresa": 3,
+    "nombreEmpresa": "Pizza house",
+    "imagen": "img/menu/pizzahut.jpg",
+    "descripcion": "exquisito",
+    "categoria": "supermercado",
+    "horario": "07:00AM-16:00PM"
+  },
+  {
+    "idEmpresa": null,
+    "nombreEmpresa": "",
+    "imagen": null,
+    "descripcion": "",
+    "categoria": "",
+    "horario": ""
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "idUsuario": 565656,
+    "nombre": "cinthya",
+    "apellido": "Rodriguez",
+    "email": "luCastillo@gmail.com",
+    "Numero": 999994453
+  },
+  {
+    "idUsuario": 67676,
+    "nombre": "Luis",
+    "apellido": "Castillo",
+    "email": "luCastillo@gmail.com",
+    "Numero": 50648464
+  },
+  {
+    "idUsuario": 45454,
+    "nombre": " Iveth",
+    "apellido": "Nuñez",
+    "email": "Iveth_Nu99@outlook.com",
+    "Numero": 50648464
+  }
+]
